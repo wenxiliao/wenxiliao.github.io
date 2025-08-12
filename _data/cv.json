@@ -1,14 +1,13 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Wenxi Liao",
+    "email": "wenxi.liao@mail.mcgill.ca",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://wenxiliao.github.io/",
+    "summary": "I am an incoming assistant professor at the University of Guelph",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
       "countryCode": "US",
       "region": ""
     },
@@ -16,49 +15,39 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.ca/citations?hl=en&user=VB55UHsAAAAJ&view_op=list_works&sortby=pubdate"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0000-0001-6600-4395"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "wenxiliao",
+        "url": "https://github.com/wenxiliao"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Toronto",
+      "area": "PhD in Forestry and Civil & Mineral Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "endDate": "2024",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Toronto",
+      "area": "HBSc in Forest Conservation and Physical & Environmental Geography",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2019",
       "courses": []
     }
+
   ],
   "skills": [],
   "languages": [],
