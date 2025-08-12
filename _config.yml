@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpg"
+  avatar           : "/images/headshot.jpg"
   name             : "Wenxi Liao"
   pronouns         : # example: "she/her"  
   bio              : "Blue-green infrastructure, nature-based water treatment, remote sensing and GIS, and urban ecosystem functions."
@@ -31,6 +31,16 @@ author:
   employer         : "University of Guelph"
   uri              : # URL
   email            : "wenxi.liao@mail.mcgill.ca" 
+  links:
+    - label: Google Scholar
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.ca/citations?hl=en&user=VB55UHsAAAAJ&view_op=list_works&sortby=pubdate"
+    - label: ORCID
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/my-orcid?orcid=0000-0001-6600-4395"
+    - label: GitHub
+      icon: "fab fa-github"
+      url: "https://github.com/wenxiliao"  
 
   # Academic websites
   academia         : # URL
