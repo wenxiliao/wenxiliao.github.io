@@ -2,14 +2,29 @@ title: Wenxi Liao
 email: wenxi.liao@mail.mcgill.ca
 description: blue-green infrastructure, water treatment, biochar, remote sensing and GIS, and urban ecosystem services.
 url: "https://wenxiliao.github.io"
+baseurl: ""   # keep empty for a user site
 
-# Social (fill what you use)
+# Social (IDs/usernames only)
 github_username: wenxiliao
-scholar_userid: Wenxi Liao (https://scholar.google.ca/citations?hl=en&user=VB55UHsAAAAJ&view_op=list_works&sortby=pubdate)
+scholar_userid: VB55UHsAAAAJ
 orcid_id: 0000-0001-6600-4395
-linkedin_username: Wenxi Liao (https://www.linkedin.com/in/wenxi-liao-phd-0b2a45122/)
+linkedin_username: wenxi-liao-phd-0b2a45122
 
-# Navigation (we’ll add these pages below)
+remote_theme: academicpages/academicpages.github.io
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-scholar
+  - jemoji
+
+# Useful site settings
+permalink: /:categories/:title/
+paginate: 5
+
+# Navigation (just filenames inside _pages/)
 nav_pages:
   - about.md
   - projects.md
