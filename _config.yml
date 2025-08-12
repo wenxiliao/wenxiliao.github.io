@@ -17,7 +17,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-scholar
   - jemoji
 
 # Useful site settings
