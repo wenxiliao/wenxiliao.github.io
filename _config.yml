@@ -26,7 +26,7 @@ author:
   name             : "Wenxi Liao, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Incoming Assistant Professor"
-  location         : "Canada"
+  location         : # "Canada"
   employer         : "School of Environmental Sciences at the University of Guelph"
   uri              : # URL
   email            : "wenxi.liao@mail.mcgill.ca" 
