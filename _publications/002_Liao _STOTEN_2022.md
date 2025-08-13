@@ -2,7 +2,7 @@
 title: "Biochar granulation enhances plant performance on a green roof substrate"
 collection: publications
 category: manuscripts
-permalink: /publications/002_Liao _STOTEN_2023
+permalink: /publications/002_Liao _STOTEN_2022
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022
 venue: 'Science of the Total Environment'
