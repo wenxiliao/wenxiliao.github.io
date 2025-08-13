@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Wenxi Liao Lab"
 title_separator          : "-"
 name                     : &name "Wenxi Liao"
-description              : # &description "personal description"
+description              : # &description "Incoming Assistant Professor"
 url                      : https://wenxiliao.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
@@ -23,11 +23,11 @@ repository               : # "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Wenxi_headshot.jpg"
-  name             : "Liao"
+  name             : "Wenxi Liao, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Hello!"
+  bio              : "Incoming Assistant Professor\nSchool of Environmental Sciences\nUniversity of Guelph"
   location         : # "Earth"
-  employer         : "University of Guelph"
+  employer         : # "University of Guelph"
   uri              : # URL
   email            : "wenxi.liao@mail.mcgill.ca" 
 
