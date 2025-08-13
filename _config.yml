@@ -312,10 +312,10 @@ plugins:
   - jemoji
 
 scholar:
-  style: apa         # or another CSL
-  locale: en
-  source: _publications
+  source: _bibliography
   bibliography: publications.bib
+  style: apa
+  locale: en
 
 # Mimic GitHub Pages with --safe
 whitelist:
