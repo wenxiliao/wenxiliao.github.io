@@ -23,14 +23,17 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      <li>
+        {{ post.title }}
+        <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+      </li>
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    <li>
+      {{ post.title }}
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+    </li>
   {% endfor %}
 {% endif %}
-
-
-
